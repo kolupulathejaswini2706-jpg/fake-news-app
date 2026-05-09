@@ -67,4 +67,4 @@ Multi-language support
 
 Cloud deployment
 
-UI improvements
+UI improvements.
