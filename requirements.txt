@@ -1,0 +1,6 @@
+Txt
+
+streamlit
+scikit-learn 
+pandas 
+nltk 
